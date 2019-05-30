@@ -2,3 +2,5 @@
 California housing price predict
 
 practice California housing value predict with analysis
+
+R / Python / Sklearn / Keras
